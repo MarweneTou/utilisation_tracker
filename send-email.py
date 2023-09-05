@@ -13,7 +13,7 @@ ref_time_converted = GUI_time_entry.total_time
 # Email configuration
 sender_email = "utilisation.tracker@gmail.com"
 receiver_email = "utilisation.tracker@gmail.com"
-app_password = "mgighaphvlbipsit"  # Use the App Password here
+app_password =   # Use the App Password here
 subject = "Daily Utilisation email"
 if GUI_time_entry.total_time > ref_time_converted:
     message = "This is your daily utilisation email sent from utilisation tracker. \n" \
